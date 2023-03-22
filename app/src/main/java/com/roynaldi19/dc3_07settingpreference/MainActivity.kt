@@ -1,4 +1,4 @@
-package com.roynaldi19.bfaa07_03settingpreference
+package com.roynaldi19.dc3_07settingpreference
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
